@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oladoyindani/web-portfolio/static/css/main.e40e36a6.css",
+    "main.js": "/oladoyindani/web-portfolio/static/js/main.259a5be9.js",
+    "static/js/488.5b5a1683.chunk.js": "/oladoyindani/web-portfolio/static/js/488.5b5a1683.chunk.js",
+    "index.html": "/oladoyindani/web-portfolio/index.html",
+    "main.e40e36a6.css.map": "/oladoyindani/web-portfolio/static/css/main.e40e36a6.css.map",
+    "main.259a5be9.js.map": "/oladoyindani/web-portfolio/static/js/main.259a5be9.js.map",
+    "488.5b5a1683.chunk.js.map": "/oladoyindani/web-portfolio/static/js/488.5b5a1683.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e40e36a6.css",
+    "static/js/main.259a5be9.js"
+  ]
+}
