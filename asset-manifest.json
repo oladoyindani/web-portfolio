@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/oladoyindani/static/css/main.e40e36a6.css",
-    "main.js": "/oladoyindani/static/js/main.f75d2daf.js",
-    "static/js/488.5b5a1683.chunk.js": "/oladoyindani/static/js/488.5b5a1683.chunk.js",
-    "index.html": "/oladoyindani/index.html",
-    "main.e40e36a6.css.map": "/oladoyindani/static/css/main.e40e36a6.css.map",
-    "main.f75d2daf.js.map": "/oladoyindani/static/js/main.f75d2daf.js.map",
-    "488.5b5a1683.chunk.js.map": "/oladoyindani/static/js/488.5b5a1683.chunk.js.map"
+    "main.css": "/web-portfolio/static/css/main.e40e36a6.css",
+    "main.js": "/web-portfolio/static/js/main.329fe909.js",
+    "static/js/488.5b5a1683.chunk.js": "/web-portfolio/static/js/488.5b5a1683.chunk.js",
+    "index.html": "/web-portfolio/index.html",
+    "main.e40e36a6.css.map": "/web-portfolio/static/css/main.e40e36a6.css.map",
+    "main.329fe909.js.map": "/web-portfolio/static/js/main.329fe909.js.map",
+    "488.5b5a1683.chunk.js.map": "/web-portfolio/static/js/488.5b5a1683.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e40e36a6.css",
-    "static/js/main.f75d2daf.js"
+    "static/js/main.329fe909.js"
   ]
 }
